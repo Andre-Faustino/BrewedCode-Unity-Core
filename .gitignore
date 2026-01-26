@@ -1,0 +1,25 @@
+# Unity generated
+*.meta
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Local environment
+.env
+.env.local
+
+# Temp files
+*.tmp
+*.temp
+
+# Build artifacts
+bin/
+obj/

@@ -1,0 +1,19 @@
+{
+    "name": "BrewedCode.ItemHub.Editor",
+    "rootNamespace": "BrewedCode.ItemHub",
+    "references": [
+        "BrewedCode.Foundation",
+        "BrewedCode.ItemHub"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

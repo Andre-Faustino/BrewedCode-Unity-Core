@@ -1,0 +1,16 @@
+{
+  "name": "BrewedCode.Foundation",
+  "rootNamespace": "BrewedCode",
+  "references": [
+    "BrewedCode.Shared"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

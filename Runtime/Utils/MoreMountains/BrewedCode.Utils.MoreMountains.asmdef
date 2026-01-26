@@ -1,0 +1,19 @@
+{
+    "name": "BrewedCode.Utils.MoreMountains",
+    "rootNamespace": "BrewedCode.Utils.MoreMountains",
+    "references": [
+        "BrewedCode.Foundation",
+        "MoreMountains.Tools",
+        "BrewedCode.Signals",
+        "MoreMountains.TopDownEngine"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

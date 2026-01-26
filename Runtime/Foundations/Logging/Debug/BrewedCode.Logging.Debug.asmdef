@@ -1,0 +1,14 @@
+{
+    "name": "BrewedCode.Logging.Debug",
+    "references": [
+        "BrewedCode.Foundation",
+        "BrewedCode.Shared"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
