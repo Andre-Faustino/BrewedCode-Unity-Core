@@ -1,5 +1,5 @@
 {
-    "name": "ThemeSystem",
+    "name": "BrewedCode.Theme",
     "rootNamespace": "BrewedCode.Theme",
     "references": [
         "BrewedCode.Foundation",

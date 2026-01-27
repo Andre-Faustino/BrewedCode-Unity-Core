@@ -1,8 +1,8 @@
 {
-    "name": "ThemeSystem.editor",
-    "rootNamespace": "",
+    "name": "BrewedCode.Theme.Editor",
+    "rootNamespace": "BrewedCode.Theme",
     "references": [
-        "ThemeSystem",
+        "BrewedCode.Theme",
         "Unity.TextMeshPro",
         "UnityCommunity.UnitySingleton"
     ],
