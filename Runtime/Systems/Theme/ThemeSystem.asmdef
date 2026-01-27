@@ -1,6 +1,6 @@
 {
     "name": "ThemeSystem",
-    "rootNamespace": "",
+    "rootNamespace": "BrewedCode.Theme",
     "references": [
         "BrewedCode.Foundation",
         "Unity.TextMeshPro.Editor",

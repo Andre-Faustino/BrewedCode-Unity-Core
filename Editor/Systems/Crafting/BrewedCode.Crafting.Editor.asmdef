@@ -1,10 +1,9 @@
 {
-    "name": "ThemeSystem.editor",
-    "rootNamespace": "",
+    "name": "BrewedCode.Crafting.Editor",
+    "rootNamespace": "BrewedCode.Crafting",
     "references": [
-        "GUID:6cad32eb216b44c4bb2063b05e664384",
-        "GUID:6055be8ebefd69e48b49212b09b47b2f",
-        "GUID:de184cc3ec226704b92a2445e8648cf3"
+        "BrewedCode.Foundation",
+        "BrewedCode.Crafting"
     ],
     "includePlatforms": [
         "Editor"

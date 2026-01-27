@@ -2,7 +2,8 @@
     "name": "BrewedCode.Events.Editor",
     "rootNamespace": "BrewedCode.Events.Editor",
     "references": [
-        "BrewedCode.Foundation"
+        "BrewedCode.Foundation",
+        "BrewedCode.Shared"
     ],
     "includePlatforms": [
         "Editor"

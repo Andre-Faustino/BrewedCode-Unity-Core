@@ -1,5 +1,5 @@
 {
-    "name": "BrewedCode.Logging.Debug",
+    "name": "BrewedCode.Logging.Editor",
     "references": [
         "BrewedCode.Foundation",
         "BrewedCode.Shared"
