@@ -1,0 +1,16 @@
+{
+  "name": "BrewedCode.Signals",
+  "rootNamespace": "BrewedCode.Signals",
+  "references": [
+    "BrewedCode.Foundation"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

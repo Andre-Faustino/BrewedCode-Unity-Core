@@ -1,0 +1,17 @@
+{
+    "name": "BrewedCode.ResourceBay",
+    "rootNamespace": "BrewedCode.ResourceBay",
+    "references": [
+        "BrewedCode.Foundation",
+        "BrewedCode.Shared"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

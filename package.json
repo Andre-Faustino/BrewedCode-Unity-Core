@@ -1,0 +1,29 @@
+{
+  "name": "com.brewedcode.core",
+  "version": "1.0.0",
+  "displayName": "BrewedCode Core Framework",
+  "description": "Production-grade modular framework for Unity with event-driven architecture, logging, timers, and game systems. 100% testable pure C# with dependency injection.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [
+    "framework",
+    "architecture",
+    "events",
+    "logging",
+    "timers",
+    "crafting",
+    "inventory",
+    "dependency-injection",
+    "event-driven",
+    "testable"
+  ],
+  "author": {
+    "name": "Andre",
+    "url": "https://github.com/Andre-Faustino/BrewedCode-Unity-Core"
+  },
+  "type": "library",
+  "license": "MIT"
+}

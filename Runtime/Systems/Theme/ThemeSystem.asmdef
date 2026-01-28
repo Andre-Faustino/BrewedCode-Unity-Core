@@ -1,0 +1,17 @@
+{
+    "name": "BrewedCode.Theme",
+    "rootNamespace": "BrewedCode.Theme",
+    "references": [
+        "BrewedCode.Foundation",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

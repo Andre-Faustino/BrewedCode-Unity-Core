@@ -1,0 +1,32 @@
+# Auto detect text files and normalize line endings to LF
+* text=auto
+
+# C# code files
+*.cs text diff=csharp eol=lf
+
+# Markdown files
+*.md text eol=lf
+
+# JSON configuration
+*.json text eol=lf
+*.asmdef text eol=lf
+
+# YAML
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Binaries
+*.dll binary
+*.exe binary
+*.asset binary
+*.prefab binary
+*.scene binary
+*.unity binary
+*.fbx binary
+*.blend binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.wav binary
+*.mp3 binary

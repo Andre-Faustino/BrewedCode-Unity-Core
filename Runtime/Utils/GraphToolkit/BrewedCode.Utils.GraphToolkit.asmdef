@@ -1,0 +1,19 @@
+{
+    "name": "BrewedCode.Utils.GraphToolkit",
+    "rootNamespace": "BrewedCode.Utils.GraphToolkit",
+    "references": [
+        "Unity.GraphToolkit.Editor",
+        "Unity.GraphToolkit.Common.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
