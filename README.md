@@ -19,7 +19,7 @@ BrewedCode separates concerns into three layers:
 ### Via Package Manager (Git URL) - Recommended
 1. Open Unity Package Manager: `Window → Package Manager`
 2. Click the `+` button → `Add package from git URL`
-3. Enter: `https://github.com/yourusername/BrewedCode-Core.git#1.0.0`
+3. Enter: `https://github.com/yourusername/BrewedCode-Core.git`
 4. Click `Add`
 
 ### Via manifest.json
@@ -27,7 +27,7 @@ Add to `Packages/manifest.json`:
 ```json
 {
   "dependencies": {
-    "com.brewedcode.core": "https://github.com/yourusername/BrewedCode-Core.git#1.0.0"
+    "com.brewedcode.core": "https://github.com/yourusername/BrewedCode-Core.git"
   }
 }
 ```
@@ -35,7 +35,7 @@ Add to `Packages/manifest.json`:
 ### Manual Clone
 ```bash
 cd Packages/
-git clone https://github.com/yourusername/BrewedCode-Core.git com.brewedcode.core
+git clone https://github.com/Andre-Faustino/BrewedCode-Core.git com.brewedcode.core
 cd com.brewedcode.core
 git checkout 1.0.0
 ```
